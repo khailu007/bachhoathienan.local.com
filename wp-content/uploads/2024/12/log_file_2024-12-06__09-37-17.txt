@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Ecommerce Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://bachhoathienan.local.com
+Data file = D:\xampp7430\www\bachhoathienan.local.com/wp-content/uploads/2024/12/demo-content-import-file_2024-12-06__09-37-17.xml
+Widget file = D:\xampp7430\www\bachhoathienan.local.com/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-06__09-37-17.json
+Customizer file = not defined!
+Redux files:
+pix_options -> D:\xampp7430\www\bachhoathienan.local.com/wp-content/themes/essentials/inc/demo-content/sites/ecommerce/ecommerce-elementor-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag bag
+[WARNING] Failed to import product_tag bottle
+[WARNING] Failed to import product_tag box
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag clock
+[WARNING] Failed to import product_tag coffe
+[WARNING] Failed to import product_tag cup
+[WARNING] Failed to import product_cat Design
+[WARNING] Failed to import product_tag design
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat food
+[WARNING] Failed to import product_tag food
+[WARNING] Failed to import product_tag green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Home
+[WARNING] Failed to import product_tag jam
+[WARNING] Failed to import product_tag jus
+[WARNING] Failed to import product_tag modern
+[WARNING] Failed to import product_tag nike
+[WARNING] Failed to import product_cat Nike
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag pack
+[WARNING] Failed to import product_tag plant
+[WARNING] Failed to import product_tag premium
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag sweet
+[WARNING] Failed to import product_tag Tech
+[WARNING] Failed to import product_cat Tech
+[WARNING] Failed to import product_cat Tools
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag women
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Imported
+PixFort Promo Box - Call to action - Imported
+Tag Cloud - No Title - Imported
+PixFort Recent Posts - Recent Posts - Imported
+PixFort Categories - Categories - Imported
+PixFort Social Links - Social Links - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pix_options finished successfully!
